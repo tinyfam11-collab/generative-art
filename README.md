@@ -1,10 +1,10 @@
 # Generative Art
 
-A small playground for experimenting with generativ art using simple Python scripts.
+A small playground for experimenting with generative art using simple Python scripts.
 
 ## Goals
 
-- Learn the basics of git and pull requets
+- Learn the basics of git and pull requests
 - Make tiny, safe improvements
 - Have fun
 
